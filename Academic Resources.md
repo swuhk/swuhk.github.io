@@ -1,8 +1,8 @@
-# Academic Resources
+[TOC]
 
-## Optimization
+# Optimization
 
-### books
+## books
 
 - Stephen Boyd and Lieven Vandenberghe [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)
 
@@ -10,7 +10,7 @@
 
 - Guanghui Lan [Lectures on Optimization Methods for Machine Learning](http://pwp.gatech.edu/guanghui-lan/wp-content/uploads/sites/330/2019/08/LectureOPTML.pdf)
 
-### courses
+## courses
 
 - UCLA EE236A [Linear Programming](http://www.seas.ucla.edu/~vandenbe/ee236a/ee236a.html)
 
@@ -30,7 +30,7 @@
 
 - KTH [FEL 3310 Ditributed Optimization](https://people.kth.se/~alepro/DistriOptCourse/index.html)
 
-### tutorial
+## tutorial
 
 - 王奇超 文再文 蓝光辉 袁亚湘 [优化算法复杂度分析简介](http://bicmr.pku.edu.cn/~wenzw/paper/complexity-analysis-v3.pdf)
 
@@ -42,20 +42,20 @@
 
 - Léon Bottou, Frank E. Curtis and Jorge Nocedal [Optimization Methods for Large-Scale Machine Learning](https://arxiv.org/abs/1606.04838)
 
-## Information Theory
+# Information Theory
 
-### book
+## book
 
 - Thomas Cover and Joy A. Thomas [Elements of Information Theory](http://staff.ustc.edu.cn/~cgong821/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU.pdf)
 - David J.C. MacKay [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf)
 
-### Course
+## Course
 
 - Stanford [Statistics311/EE377 Information Theory and Statistics](https://web.stanford.edu/class/stats311/)
 
-## Machine Learning
+# Machine Learning
 
-### books
+## books
 
 - Christopher. Bishop [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - Kevin Patrick Murphy [Machine Learning: a Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/), [one pdf](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf)
@@ -68,54 +68,54 @@
 - Martin J. Wainwright and Michael I. Jordan [Graphical Models, Exponential Families, and
   Variational Inference](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
 
-### courses
+## courses
 
-#### algorithm
+### algorithm
 
 - Stanford [CS229 Machine Learning](http://cs229.stanford.edu/)
 - Stanford [CS228 Probabilistic Graphical Models](https://cs.stanford.edu/~ermon/cs228/index.html)
 - Stanford [CS224W Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
 - CMU 10-708 Probabilistic Graphical Models [Spring 2014](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
 
-#### theory
+### theory
 
 - Stanford [CS229T/STATS231: Statistical Learning Theory](CS229T/STATS231: Statistical Learning Theory)
 
-### tutorial
+## tutorial
 
 - [Introduction to online learning](https://parameterfree.com/lecture-notes-on-online-learning/) [中文简短版](https://zhuanlan.zhihu.com/p/158244842)
 - NeurIPS 2017 [A Primer on Optimal Transport](https://media.nips.cc/Conferences/NIPS2017/Eventmedia/nips-2017-marco-cuturi-tutorial.pdf)
 - AAAI 2020 [Representation Learning for Causal Inference](http://cobweb.cs.uga.edu/~shengli/AAAI20-Causal-Tutorial.html)
 - AAAI 2020 [Graph Neural Networks: Models and Applications](http://cse.msu.edu/~mayao4/tutorials/aaai2020/)
 
-## Deep Learning
+# Deep Learning
 
-### books
+## books
 
 - Ian Goodfellow, Yoshua Bengio and Aaron Courville [Deep Learning](https://www.deeplearningbook.org/), [one pdf](http://faculty.neu.edu.cn/yury/AAI/Textbook/DeepLearningBook.pdf)
 
 - Aston Zhang, Zack C. Lipton, Mu Li and Alex J. Smola Dive into [Deep Learning](https://d2l.ai/)
 
 
-### courses
+## courses
 
 - Stanford [CS230 Deep Learning](http://cs230.stanford.edu/syllabus/)
 - Stanford [CS231N Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 - Stanford [CS224N Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/index.html)
 - Stanford [CS236 Deep Generative Model](http://cs236.stanford.edu/syllabus.html)
 
-### tutorial
+## tutorial
 
 - ICML 2019 [A Tutorial on Attention in Deep Learning](https://icml.cc/Conferences/2019/ScheduleMultitrack?event=4343)
 
-## Reinforcement Learning
+# Reinforcement Learning
 
-### book
+## book
 
 - Richard S. Sutton and Andrew G. Barto [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book.html)
 
 
-### courses
+## courses
 
 - UCL [RL Course](https://www.davidsilver.uk/teaching/)
 - Stanford [CS234 Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html)
@@ -131,9 +131,9 @@
 - UWashington AMATH/CSE 579 [Intelligent control through learning and optimization](https://homes.cs.washington.edu/~todorov/courses/amath579/)
 - UIUC Daniel Liberzon [Calculus of Variations and Optimal Control Theory](http://liberzon.csl.illinois.edu/teaching/cvoc/node1.html)
 
-### tutorial
+## tutorial
 
-#### general/ algorithmtic
+### general/ algorithmtic
 
 - 2016 MLSS OpenAI J. Schulman [Deep Reinforcement Learning](https://learning.mpi-sws.org/mlss2016/slides/2016-MLSS-RL.pdf)
 - 2016 NeurIPS OpenAI P. Abbeel and J. Schulman [Deep Reinforcement Learning through Policy Optimization](https://media.nips.cc/Conferences/2016/Slides/6198-Slides.pdf)
@@ -143,7 +143,7 @@
 - 2019 UAI Stanford E. Brunskill [RL for People](https://cs.stanford.edu/people/ebrun/UAI_2019_Keynote_Brunskill.pdf)
 - 2019 NeurIPS Microsoft K. Hofmann [Reinforcement Learning: Past, Present, and Future](https://www.microsoft.com/en-us/research/uploads/prod/2019/11/2019-12-09-Hofmann-NeurIPS-tutorial_no-video.pdf)
 
-#### complexity/regret
+### complexity/regret
 
 - 2011 INRIA Workshop M. Ghavamzadeh [Finite-Sample Analysis in Reinforcement Learning](http://mistis.inrialpes.fr/learninria/slides/Ghavamzadeh.pdf)
 - 2011 Machine Summer School R. Munos [Approximate Dynamic Programming](http://researchers.lille.inria.fr/~munos/papers/files/part2.pdf)
@@ -153,12 +153,12 @@
 - 2020 AAAI Exploration in Reinforcement Learning [Intro](https://rlgammazero.github.io/docs/2020_AAAI_tut_part0.pdf), [Finite Horizon MDP](https://rlgammazero.github.io/docs/2020_AAAI_tut_part1.pdf), [Regret Minimization in Tabular MDPs (Finite-Horizon MDPs)](https://rlgammazero.github.io/docs/2020_AAAI_tut_part2.pdf), [Exploration in Deep RL](https://rlgammazero.github.io/docs/2020_AAAI_tut_part3.pdf), [Regret Minimization in Structured MDPs (Finite-Horizon MDPs)](https://rlgammazero.github.io/docs/2020_AAAI_tut_part4.pdf)
 - 2020 Intersections between Control, Learning and Optimization M. Wang [On the Statistical Complexity of Reinforcement Learning and the Use of Regression](http://helper.ipam.ucla.edu/publications/lco2020/lco2020_16408.pdf)
 
-### Others
+## Others
 
 - [Variational principle](https://zhuanlan.zhihu.com/p/162031298)
 - [stochastic HJB](https://zhuanlan.zhihu.com/p/161632470)
 - [A mind map](http://louiskirsch.com/maps/reinforcement-learning)
 
-## Unclassified
+# Unclassified
 
 - AAAI 2020 [Recent Advances in Fair Resource Allocation](https://users.cs.duke.edu/~rupert/fair-division-aaai20/Tutorial-Slides.pdf)
