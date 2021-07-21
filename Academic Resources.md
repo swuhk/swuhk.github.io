@@ -13,21 +13,14 @@
 ## courses
 
 - UCLA EE236A [Linear Programming](http://www.seas.ucla.edu/~vandenbe/ee236a/ee236a.html)
-
 - Stanford [EE364A Convex optimization I](https://web.stanford.edu/class/ee364a/), [EE364B Convex optimization II](https://web.stanford.edu/class/ee364b/)
-
 - UCLA [EE236B Convex Optimization](http://www.seas.ucla.edu/~vandenbe/ee236b/ee236b.html)
-
 - Berkeley [EE227C Convex Optimization and Approximation](https://ee227c.github.io/)
-
 - CMU 10-725/36-725 Convex Optimization [Fall 2012](https://www.cs.cmu.edu/~ggordon/10725-F12/schedule.html), [Fall 2017](https://www.cs.cmu.edu/~pradeepr/convexopt/), [R. Tibshirani](http://www.stat.cmu.edu/~ryantibs/convexopt/)
-
 - UCLA [EE236C Optimization Methods for Large-Scale Systems](http://www.seas.ucla.edu/~vandenbe/ee236c.html)
-
 - Princeton [ELE522 Large-Scale Optimization for Data Science Fall 2019](http://www.princeton.edu/~yc5/ele522_optimization/lectures.html)
-
+- UIUC [IE598 Big Data Optimization Fall 2016](http://niaohe.ise.illinois.edu/IE598_2016/index.html)
 - 北京大学 [凸优化 秋季2019](http://bicmr.pku.edu.cn/~wenzw/opt-2019-fall.html)
-
 - KTH [FEL 3310 Ditributed Optimization](https://people.kth.se/~alepro/DistriOptCourse/index.html)
 
 ## tutorial
@@ -52,12 +45,14 @@
 ## Course
 
 - Stanford [Statistics311/EE377 Information Theory and Statistics](https://web.stanford.edu/class/stats311/)
+- KTH [FEO3350 Information Theory for Statistics and Learning](https://people.kth.se/~skoglund/edu/IT-stats/)
 
 # Machine Learning
 
 ## books
 
-- Christopher. Bishop [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+- David Barber [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf)
+- Christopher Bishop [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - Kevin Patrick Murphy [Machine Learning: a Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/), [one pdf](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf)
 - Trevor Hastie, Robert Tibshirani and Jerome Friedman [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - Bradley Efron and Trevor Hastie [Computer Age Statistical Inference: Algorithms, Evidence and Data Science](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
@@ -94,7 +89,7 @@
 
 - Ian Goodfellow, Yoshua Bengio and Aaron Courville [Deep Learning](https://www.deeplearningbook.org/), [one pdf](http://faculty.neu.edu.cn/yury/AAI/Textbook/DeepLearningBook.pdf)
 
-- Aston Zhang, Zack C. Lipton, Mu Li and Alex J. Smola Dive into [Deep Learning](https://d2l.ai/)
+- Aston Zhang, Zack C. Lipton, Mu Li and Alex J. Smola [Dive into Deep Learning](https://d2l.ai/)
 
 
 ## courses
@@ -103,16 +98,19 @@
 - Stanford [CS231N Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 - Stanford [CS224N Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/index.html)
 - Stanford [CS236 Deep Generative Model](http://cs236.stanford.edu/syllabus.html)
+- Princeton CS 597A [New Directions in Theoretical Machine Learning](https://www.cs.princeton.edu/courses/archive/fall17/cos597A/)
 
 ## tutorial
 
 - ICML 2019 [A Tutorial on Attention in Deep Learning](https://icml.cc/Conferences/2019/ScheduleMultitrack?event=4343)
+- [Recent advances in deep learning theory](https://arxiv.org/abs/2012.10931)
 
 # Reinforcement Learning
 
 ## book
 
 - Richard S. Sutton and Andrew G. Barto [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book.html)
+- Alekh Agarwal Nan Jiang Sham M. Kakade Wen Sun [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/)
 
 
 ## courses
@@ -120,21 +118,25 @@
 - UCL [RL Course](https://www.davidsilver.uk/teaching/)
 - Stanford [CS234 Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html)
 - Stanford [CS332 Advanced Survey of Reinforcement Learning](https://web.stanford.edu/class/cs332/#!index.md)
+- Stanford [CME241 Reinforcement Learning for Stochastic Control Problems in Finance](https://stanford.edu/~ashlearn/)
 - UC Berkeley CS287 [Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
-- UC Berkeley CS 285 [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/), CS294 [Fall18](http://rail.eecs.berkeley.edu/deeprlcourse-fa18/), [Fall17](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/)
+- UC Berkeley CS 285 [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/), CS294 [Fall18](http://rail.eecs.berkeley.edu/deeprlcourse-fa18/), [Fall17](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/) [Past](https://rll.berkeley.edu/deeprlcourse/docs/)
 - UIUC CS 498 [Reinforcement Learning](https://nanjiang.cs.illinois.edu/cs498/)
 - UIUC CS 598 [Statistical Reinforcement Learning](https://nanjiang.cs.illinois.edu/cs598/)
-- CMU 10703 [Deep RL and Control Spring18](http://www.cs.cmu.edu/~rsalakhu/10703/), [Spring 17](https://katefvision.github.io/)
+- CMU 10703 [Deep RL and Control Fall18](https://www.andrew.cmu.edu/course/10-703/), [Spring18](http://www.cs.cmu.edu/~rsalakhu/10703/), [Spring 17](https://katefvision.github.io/)
 - UWaterloo Pascal Poupart  [Spring20](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring20/schedule.html), [Spring13](https://cs.uwaterloo.ca/~ppoupart/teaching/cs886-spring13/schedule.html)
 - INRIA [A. Lazaric](http://chercheurs.lille.inria.fr/~lazaric/Webpage/Teaching.html), [M. Ghavamza](http://chercheurs.lille.inria.fr/~ghavamza/RL-EC-Lille/schedule.html)
 - KTH Alexandre Proutiere [Reinforcement Learning: A Graduate Course](http://www.it.uu.se/research/systems_and_control/education/2017/relearn)
 - UWashington AMATH/CSE 579 [Intelligent control through learning and optimization](https://homes.cs.washington.edu/~todorov/courses/amath579/)
+- UAlberta CMPUT 653 [Theoretical Foundations of Reinforcement Learning](https://rltheory.github.io/)
+- Cornell CS 6789 [Foundations of Reinforcement Learning](https://wensun.github.io/CS6789.html)
 - UIUC Daniel Liberzon [Calculus of Variations and Optimal Control Theory](http://liberzon.csl.illinois.edu/teaching/cvoc/node1.html)
 
 ## tutorial
 
 ### general/ algorithmtic
 
+- 2012 ICRA Pieter Abbeel and Jan Peters [Reinforcement Learning for Robotics](https://www.ias.informatik.tu-darmstadt.de/Research/Tutorial)
 - 2016 MLSS OpenAI J. Schulman [Deep Reinforcement Learning](https://learning.mpi-sws.org/mlss2016/slides/2016-MLSS-RL.pdf)
 - 2016 NeurIPS OpenAI P. Abbeel and J. Schulman [Deep Reinforcement Learning through Policy Optimization](https://media.nips.cc/Conferences/2016/Slides/6198-Slides.pdf)
 - 2016 ICML DeepMind D. Silver [Deep Reinforcement Learning](https://icml.cc/2016/tutorials/deep_rl_tutorial.pdf)
@@ -142,6 +144,7 @@
 - 2017 NIPS Stanfor E. Brunskill [Reinforcement Learning for the People and/or by the People](https://cs.stanford.edu/people/ebrun/NIPS_2017_tutorial_brunskill.pdf)
 - 2019 UAI Stanford E. Brunskill [RL for People](https://cs.stanford.edu/people/ebrun/UAI_2019_Keynote_Brunskill.pdf)
 - 2019 NeurIPS Microsoft K. Hofmann [Reinforcement Learning: Past, Present, and Future](https://www.microsoft.com/en-us/research/uploads/prod/2019/11/2019-12-09-Hofmann-NeurIPS-tutorial_no-video.pdf)
+- 2020 ICML OpenAI I. Mordatch and J. Hamrick [Tutorial on Model-Based Methods in Reinforcement Learning](https://sites.google.com/view/mbrl-tutorial)
 
 ### complexity/regret
 
@@ -158,6 +161,19 @@
 - [Variational principle](https://zhuanlan.zhihu.com/p/162031298)
 - [stochastic HJB](https://zhuanlan.zhihu.com/p/161632470)
 - [A mind map](http://louiskirsch.com/maps/reinforcement-learning)
+
+# Game Theory
+
+## courses
+
+- MIT [Game Theory with Engineering Applications](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-254-game-theory-with-engineering-applications-spring-2010/lecture-notes/)
+- KTH [SF2972 Game Theory](https://www.math.kth.se/matstat/gru/sf2972/2017/)
+- Angelia Nedich [Game theory: Models, Algorithms](http://www.ifp.illinois.edu/~angelia/game_lectures.htm)
+- Penn State Math 486 [Game Theory](http://www.personal.psu.edu/cxg286/Math486.pdf)
+
+## tutorial
+
+- [The Confluence of Networks, Games and Learning](https://arxiv.org/abs/2105.08158)
 
 # Unclassified
 
