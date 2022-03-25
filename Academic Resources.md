@@ -91,7 +91,6 @@
 
 - Aston Zhang, Zack C. Lipton, Mu Li and Alex J. Smola [Dive into Deep Learning](https://d2l.ai/)
 
-
 ## courses
 
 - Stanford [CS230 Deep Learning](http://cs230.stanford.edu/syllabus/)
@@ -112,10 +111,9 @@
 - Richard S. Sutton and Andrew G. Barto [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book.html)
 - Alekh Agarwal Nan Jiang Sham M. Kakade Wen Sun [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/)
 
-
 ## courses
 
-- UCL [RL Course](https://www.davidsilver.uk/teaching/)
+- UCL [RL Course](https://www.davidsilver.uk/teaching/), DeepMind [Reinforcement Learning Lecture Series]([Reinforcement Learning Lecture Series 2021 | DeepMind](https://deepmind.com/learning-resources/reinforcement-learning-series-2021))
 - Stanford [CS234 Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html)
 - Stanford [CS332 Advanced Survey of Reinforcement Learning](https://web.stanford.edu/class/cs332/#!index.md)
 - Stanford [CME241 Reinforcement Learning for Stochastic Control Problems in Finance](https://stanford.edu/~ashlearn/)
@@ -125,12 +123,18 @@
 - UIUC CS 598 [Statistical Reinforcement Learning](https://nanjiang.cs.illinois.edu/cs598/)
 - CMU 10703 [Deep RL and Control Fall18](https://www.andrew.cmu.edu/course/10-703/), [Spring18](http://www.cs.cmu.edu/~rsalakhu/10703/), [Spring 17](https://katefvision.github.io/)
 - UWaterloo Pascal Poupart  [Spring20](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring20/schedule.html), [Spring13](https://cs.uwaterloo.ca/~ppoupart/teaching/cs886-spring13/schedule.html)
+- Columbia Shipra Agrawal [IEOR8100 Reinforcement Learning](https://github.com/ieor8100/rl/tree/master/docs)
 - INRIA [A. Lazaric](http://chercheurs.lille.inria.fr/~lazaric/Webpage/Teaching.html), [M. Ghavamza](http://chercheurs.lille.inria.fr/~ghavamza/RL-EC-Lille/schedule.html)
 - KTH Alexandre Proutiere [Reinforcement Learning: A Graduate Course](http://www.it.uu.se/research/systems_and_control/education/2017/relearn)
 - UWashington AMATH/CSE 579 [Intelligent control through learning and optimization](https://homes.cs.washington.edu/~todorov/courses/amath579/)
 - UAlberta CMPUT 653 [Theoretical Foundations of Reinforcement Learning](https://rltheory.github.io/)
 - Cornell CS 6789 [Foundations of Reinforcement Learning](https://wensun.github.io/CS6789.html)
 - UIUC Daniel Liberzon [Calculus of Variations and Optimal Control Theory](http://liberzon.csl.illinois.edu/teaching/cvoc/node1.html)
+- UFreiburg Moritz Diehl [Numerical Optimal Control](https://www.syscop.de/teaching/ss2021/model-predictive-control-and-reinforcement-learning)
+- UToronto [Imitation Learning  for Robotics](http://www.cs.toronto.edu/~florian/courses/csc2626w21/)
+- IISC [CE273](http://civil.iisc.ac.in/~tarunr/ce273.html)
+- Princeton Chi Jin [RL Theory](https://sites.google.com/view/cjin/ele524-2020-ver)
+- Karen Liu [Human Motion Generation](https://ckllab.stanford.edu/cs-348e-character-animation)
 
 ## tutorial
 
@@ -161,6 +165,7 @@
 - [Variational principle](https://zhuanlan.zhihu.com/p/162031298)
 - [stochastic HJB](https://zhuanlan.zhihu.com/p/161632470)
 - [A mind map](http://louiskirsch.com/maps/reinforcement-learning)
+- [RL Seminar](https://rlseminar.github.io/)
 
 # Game Theory
 
